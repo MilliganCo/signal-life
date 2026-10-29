@@ -1,5 +1,7 @@
 # Signal Life
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Клеточная симуляция на `pygame` с интерактивной панелью параметров, метриками и несколькими типами частиц. Проект развивает идею автомата жизни в сторону сигнальных взаимодействий, зарядов и управляемого поведения системы.
@@ -28,3 +30,8 @@ python main.py
 ## Статус
 
 WIP. Проект ближе к исследовательскому sandbox-инструменту, чем к законченной игре.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
